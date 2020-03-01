@@ -4,12 +4,6 @@ import TextField from '@material-ui/core/TextField';
 import MenuItem from '@material-ui/core/MenuItem';
 import { makeStyles } from '@material-ui/core/styles';
 
-
-import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
-
-
 import Navigation from "../components/Navigation/Navigation";
 import AuthorInfo from "../components/WriterPage/Writers";
 
