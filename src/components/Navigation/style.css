@@ -1,6 +1,6 @@
 nav {
   position: absolute;
-  display: flex;
+  display: flex !important;
   justify-content: space-between;
   flex-wrap: wrap;
   right: 0;

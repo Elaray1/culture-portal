@@ -1,4 +1,5 @@
 import React from "react"
+import '../layout.css'
 import { Link, useStaticQuery, StaticQuery } from "gatsby"
 import TextField from '@material-ui/core/TextField';
 import MenuItem from '@material-ui/core/MenuItem';
